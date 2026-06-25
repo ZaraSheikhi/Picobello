@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://picobellobremen.de/sitemap.xml
